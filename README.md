@@ -5,8 +5,12 @@ We got provided the code/program to test and we need to create the unit test cod
 
 Below you can find back the **Learning Objectives** and some instructions for this challenge.
 
+---
 
-**_Pending things to do:_**  Everything
+> **_Pending things to do:_**  Everything
+
+
+---
 
 
  *What, Why, When, How, Who.*
