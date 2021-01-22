@@ -9,7 +9,7 @@ Below you can find back the **Learning Objectives** and some **instructions** fo
 
 ---
 
-> **_Pending things to do:_**                         Still Everything, Just Starting!
+> **_Pending things to do:_** xxxxxx Still Everything, Just Starting! xxxxxx
 
 
 ---
