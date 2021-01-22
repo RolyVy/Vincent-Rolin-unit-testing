@@ -1,13 +1,15 @@
 # Vincent-Rolin-unit-testing
 
+## **Intro**
+
 This is a learning challenge to develop and test our skills on unit testing.
 We got provided the code/program to test and we need to create the unit test code to test this program. 
 
-Below you can find back the **Learning Objectives** and some instructions for this challenge.
+Below you can find back the **Learning Objectives** and some **instructions** for this challenge.
 
 ---
 
-> **_Pending things to do:_**  Everything
+> **_Pending things to do:_**  Still Everything, Just Starting!
 
 
 ---
