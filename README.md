@@ -21,6 +21,8 @@ Below you can find back the **Learning Objectives** and some **instructions** fo
  We want to create tests to see if a program is working as expected, it will become helpful when months later we are coming back (me personally or another contributor) to add some new functionalities or just make our code more efficient. Then it is faster to see if our different modules run well all together even after the changes, without the need to to really make run the program.
  
  Aswell there is no need to test every and each functions of the program and ho it completely work from A to Z . We just want to check that the output that we expect is right(like a "blackbox"). Allowing us then later to rewrite some part of the code/ functions in a more efficient way to have the same input , and have our tests still relevant .
+ 
+ Understand how the code is written, understand the objects within it and its functionalities, and that way understand what to test.
 
 ## **Learning Objectives¶**
 You will learn how to take advantage of unit testing to create robust code. At the end of the challenge, you will be able to:
