@@ -32,7 +32,9 @@ Below you can find back the **Learning Objectives** and some **instructions** fo
  * (Res)Sources Used 
  
  Becode Theano 2-27 Repo
+ 
  https://www.youtube.com/watch?v=URSWYvyc42M&feature=emb_title
+ 
  https://learn.datacamp.com/courses/unit-testing-for-data-science-in-python
  
 
