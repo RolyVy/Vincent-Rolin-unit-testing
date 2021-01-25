@@ -33,9 +33,12 @@ Below you can find back the **Learning Objectives** and some **instructions** fo
  
  Becode Theano 2-27 Repo
  
- https://www.youtube.com/watch?v=URSWYvyc42M&feature=emb_title
+ Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz    https://www.youtube.com/watch?v=URSWYvyc42M&feature=emb_title
  
  https://learn.datacamp.com/courses/unit-testing-for-data-science-in-python
+ 
+ https://openclassrooms.com/en/courses/4425126-testez-votre-projet-avec-python
+ 
  
 
 ## **Learning Objectives¶**
