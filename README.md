@@ -18,11 +18,23 @@ Below you can find back the **Learning Objectives** and some **instructions** fo
  *What, Why, When, How, Who.* aka learning evolution (I am adding at each step of the project my new understandings that will help me complete the project)
  
 * Learning and understanding what part of the program should be tested and why. 
+
  We want to create tests to see if a program is working as expected, it will become helpful when months later we are coming back (me personally or another contributor) to add some new functionalities or just make our code more efficient. Then it is faster to see if our different modules run well all together even after the changes, without the need to to really make run the program.
  
  Aswell there is no need to test every and each functions of the program and ho it completely work from A to Z . We just want to check that the output that we expect is right(like a "blackbox"). Allowing us then later to rewrite some part of the code/ functions in a more efficient way to have the same input , and have our tests still relevant .
  
  Understand how the code is written, understand the objects within it and its functionalities, and that way understand what to test.
+ 
+ * A Mock is a dubbel, it plays the role of an other object (like a server etc). 
+ 
+ The goal is then to test the working connection/interaaction between the object tested and this other object without needing to really connect with that object. We just want to see if it would work if/when we then really run the program.
+ 
+ * (Res)Sources Used 
+ 
+ Becode Theano 2-27 Repo
+ https://www.youtube.com/watch?v=URSWYvyc42M&feature=emb_title
+ https://learn.datacamp.com/courses/unit-testing-for-data-science-in-python
+ 
 
 ## **Learning Objectives¶**
 You will learn how to take advantage of unit testing to create robust code. At the end of the challenge, you will be able to:
