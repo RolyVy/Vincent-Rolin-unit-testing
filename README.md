@@ -28,6 +28,7 @@ Below you can find back the **Learning Objectives** and some **instructions** fo
  * A Mock is a dubbel, it plays the role of an other object (like a server etc). 
  
  The goal is then to test the working connection/interaaction between the object tested and this other object without needing to really connect with that object. We just want to see if it would work if/when we then really run the program.
+ Important to sync Mock and API (of those "mocked" objects)
  
  * (Res)Sources Used 
  
