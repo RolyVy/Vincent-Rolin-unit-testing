@@ -30,6 +30,16 @@ Below you can find back the **Learning Objectives** and some **instructions** fo
  The goal is then to test the working connection/interaaction between the object tested and this other object without needing to really connect with that object. We just want to see if it would work if/when we then really run the program.
  Important to sync Mock and API (of those "mocked" objects)
  
+ 
+ * Project
+ 
+ We need to create a mock to mimic the behavior that we would expect from the real database (which is currently unavailable)
+ 
+ We can then recreate a similar situation at what would be the real situation. On this we will test/assert if we get the correct message.
+ 
+ 
+ 
+ 
  * (Res)Sources Used 
  
  Becode Theano 2-27 Repo
